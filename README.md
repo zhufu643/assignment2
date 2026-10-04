@@ -1,7 +1,6 @@
 # Global Earthquake Activity
 
-![Global earthquake activity](out/plot.png)
-
+![Global earthquake activity](out/earthquakes-scatter-heatmap.png)
 ## The phenomenon
 
 This project looks at global earthquakes of magnitude 2.5 and above during one month. Earthquakes happen every day, but their number, magnitude, and depth change over time. Most people usually only notice strong earthquakes reported in the news, while many smaller earthquakes happen continuously. I wanted to look at this phenomenon because the data makes it possible to compare individual strong events with the overall pattern of earthquake activity. The visualization focuses on how earthquake magnitude and frequency change across different days.
